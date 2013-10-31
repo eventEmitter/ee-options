@@ -1,0 +1,26 @@
+{
+      "name"                        : "ee-options"
+    , "description"                 : "simple options parser for ee-class"
+    , "version"                     : "0.1.0"
+    , "homepage"                    : "https://github.com/eventEmitter/ee-options"
+    , "author"                      : "Michael van der Weg <michael@eventemitter.com> (http://eventemitter.com/)" 
+    , "licence"                     : "mit"
+    , "os"                          : "linux"
+    , "repository": {
+          "url"                     : "https://github.com/eventEmitter/ee-options.git"
+        , "type"                    : "git"
+    }
+    , "engines": {
+        "node"                      : ">=v0.10.17"
+    }
+    , "bugs": {
+        "url"                       : "https://github.com/eventEmitter/ee-options/issues"
+    }
+    , "dependencies": {
+          "ee-class"                : "*"
+        , "ee-types"                : "*"
+        , "ee-log"                  : "*"
+    }
+    , "devDependencies": {}
+    , "optionalDependencies": {}
+}
