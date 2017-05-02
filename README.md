@@ -1,5 +1,7 @@
 # ee-options
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-options.svg)](https://greenkeeper.io/)
+
 simple options parser for ee-class
 
 ## installation
